@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia, estou dando meus primeiros passos no desenvolvime
 ## ✉️ Contato
 
 - 📧 **Email:** victordevwork@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/victorlotti/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-lotti-85894b261/)  
 
 ---
 
