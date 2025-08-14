@@ -1,7 +1,7 @@
 # Olá! Eu sou o Victor Lotti 🖐️  
-### 🚀 Desenvolvedor Iniciante em constante aprendizado
+### 🚀 Desenvolvedor Fullstack em constante aprendizado
 
-Sou apaixonado por tecnologia, estou dando meus primeiros passos no desenvolvimento de software e sempre buscando aprender novas ferramentas e linguagens!
+Sou apaixonado por tecnologia, sempre buscando aprender novas ferramentas e linguagens!
 
 ---
 
